@@ -1,3 +1,4 @@
+//boolean_valve.dart
 class Partnership {
   bool isPartnership;
 

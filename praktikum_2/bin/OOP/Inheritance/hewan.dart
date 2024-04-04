@@ -1,3 +1,4 @@
+//hewan.dart
 class Hewan {
   String _nama = '';
   int _umur = 0;

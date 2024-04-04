@@ -154,7 +154,7 @@ class MyApp extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text("Laporkan Masalah"),
-                        Image.asset("assets/image_1.png", scale: 15)
+                        Image.asset("assets/image_2.png", scale: 15)
                       ],
                     ),
                   ],

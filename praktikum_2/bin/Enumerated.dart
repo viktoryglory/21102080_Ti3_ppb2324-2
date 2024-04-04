@@ -1,3 +1,4 @@
+//Enumeerated.dart
 enum Rainbow { Merah, Jingga, Kuning, Hijau, Biru, Nila, Ungu }
 
 enum TaskStatus { Todo, InProgress, InReview, Done }
